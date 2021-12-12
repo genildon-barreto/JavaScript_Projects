@@ -1,2 +1,4 @@
-# JavaScript_Projects
-Repositório de atividades e projetos na linguagem JS
+# Projetos em JavaScript
+
+Repositório de atividades e projetos na linguagem JS para aprimoramento.
+
